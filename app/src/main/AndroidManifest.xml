@@ -9,7 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.NewApplication">
-        <activity android:name=".Tictac_game"></activity>
+        <activity android:name=".view.sudoku_game"></activity>
+        <activity android:name=".Tictac_game" />
         <activity android:name=".Tictac" />
         <activity android:name=".Sudoku" />
         <activity android:name=".DashboardActivity" />
